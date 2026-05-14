@@ -1,2 +1,17 @@
+# python
 __pycache__/
 *.pyc
+
+# model
+*.pth
+*.pt
+
+# vscode
+.vscode/
+
+# dataset
+data/
+dataset/
+
+# reports image
+reports/*.png
